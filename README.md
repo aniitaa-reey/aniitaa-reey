@@ -1,9 +1,9 @@
 # Redme de prueba #
 ## ✨ Hola! Mi nombre es Ana Rey, estudiante de desarrollo web ✨ ##
 ### Mis proyectos más recientes se centran en la práctica de los conocimientos adquiridos semanalmente ###
-** ALGUNOS DE ELLOS SON:
+**ALGUNOS DE ELLOS SON:
 1. LOCALSTORAGE
-2. E-COMMERCE **
+2. E-COMMERCE**
    
 🛠️ Tecnologías
 - HTML
