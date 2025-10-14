@@ -1,19 +1,31 @@
-# Redme de prueba #
-## ✨ Hola! Mi nombre es Ana Rey, estudiante de desarrollo web ✨ ##
-### Mis proyectos más recientes se centran en la práctica de los conocimientos adquiridos semanalmente ###
-**ALGUNOS DE ELLOS SON:
-1. LOCALSTORAGE
-2. E-COMMERCE**
-   
-🛠️ Tecnologías
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+# ✨ Ana Rey - Estudiante de Desarrollo Web ✨
 
-  
-  [https://github.com/aniitaa-reey]
-``` javascript//console.log("Holiss!! Este es mi readme de prueba"); ```
+¡Holiss! Soy Ana Rey, estudiante apasionada por el desarrollo web. Mis proyectos más recientes se centran en la práctica semanal de los conocimientos adquiridos, combinando diseño, interactividad y funcionalidad.
+
+## 🧪 Proyectos Recientes
+
+**Algunos de ellos son:**
+
+- 🗂️ **LocalStorage** – Guardado de datos en el navegador
+- 🛒 **E-Commerce** – Página de productos con comentarios y valoraciones
+
+## 🛠️ Tecnologías que uso
+
+- 💻 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🎀 Bootstrap
+
+## 📂 Repositorio
+
+Podés ver más de mis proyectos en GitHub:  
+🔗 [aniitaa-reey](https://github.com/aniitaa-reey)
+
+## 🧠 Consola de prueba
+
+```javascript
+console.log("Holiss!! Este es mi readme de prueba");
+
 <!--
 **aniitaa-reey/aniitaa-reey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
