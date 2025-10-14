@@ -16,7 +16,7 @@ Here are some ideas to get you started  :
 
 # ✨ Ana Rey - Estudiante de Desarrollo Web ✨
 
-¡Holiss! Soy Ana Rey, estudiante apasionada por el desarrollo web. Mis proyectos más recientes se centran en la práctica semanal de los conocimientos adquiridos, combinando diseño, interactividad y funcionalidad.
+¡Hola! Soy Ana Rey, estudiante de desarrollo web. Mis proyectos más recientes se centran en la práctica semanal de los conocimientos adquiridos, combinando diseño, interactividad y funcionalidad.
 
 ## 🧪 Proyectos Recientes
 
