@@ -26,6 +26,7 @@ Tambén me estoy especializando y practicando otros lenguajes como JAVA y C++.
 
  **LocalStorage** – Guardado de datos en el navegador
  **E-Commerce** – Página de productos con comentarios y valoraciones
+ ** Uso de DB - MY SQL. 
 
 ## Tecnologías que uso
 
